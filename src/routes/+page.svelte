@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>로그인 예제</h1>
+<div>
+	<a href="/login">로그인</a>
+	<a href="/register">회원가입</a>
+	<a href="/mypage">마이페이지</a>
+</div>
